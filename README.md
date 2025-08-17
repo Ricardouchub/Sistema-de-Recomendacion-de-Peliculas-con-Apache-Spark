@@ -63,7 +63,7 @@ Una vez entrenado y evaluado, el modelo se utilizó para:
 ## Conclusiones
 
 Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
-* Se manejaron y procesaron con éxito más de 32 millones de registros.
+* Se manejaron y procesaron más de 32 millones de registros.
 * El análisis exploratorio reveló patrones interesantes sobre la distribución de géneros y la actividad de los usuarios.
 * El modelo ALS entrenado logró un **RMSE** competitivo, demostrando su capacidad para predecir calificaciones con una precisión razonable.
 * El sistema final es capaz de generar recomendaciones personalizadas y encontrar películas similares, validando la efectividad del modelo.
