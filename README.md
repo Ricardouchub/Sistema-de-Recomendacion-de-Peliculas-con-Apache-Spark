@@ -57,7 +57,7 @@ Una vez entrenado y evaluado, el modelo se utilizó para:
 ---
 
 
-## Resultados y Conclusiones
+## Conclusiones
 
 Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
 * Se manejaron y procesaron con éxito más de 32 millones de registros.
@@ -65,8 +65,9 @@ Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
 * El modelo ALS entrenado logró un **RMSE** competitivo, demostrando su capacidad para predecir calificaciones con una precisión razonable.
 * El sistema final es capaz de generar recomendaciones personalizadas y encontrar películas similares, validando la efectividad del modelo.
 
-Este es un excelente ejemplo práctico del poder de Apache Spark para construir sistemas de recomendación escalables y de alto rendimiento.
 
 ---
 
-Creado por **[¡Aquí va tu Nombre!]** - [Tu Perfil de GitHub](https://github.com/tu_usuario)
+## Autor
+**Ricardo Urdaneta**
+**Linkedin**
