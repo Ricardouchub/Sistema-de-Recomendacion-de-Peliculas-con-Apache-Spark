@@ -4,6 +4,7 @@ Este proyecto implementa un sistema de recomendación de películas utilizando *
 
 ---
 
+### [Notebook](https://github.com/Ricardouchub/Sistema-de-Recomendacion-de-Peliculas-con-Apache-Spark/blob/main/Notebook.ipynb)
 
 ## Dataset Utilizado
 
