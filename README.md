@@ -25,9 +25,7 @@ Se utilizó el dataset **MovieLens 32M** que consta de:
 
 ---
 
-## Flujo de Trabajo del Proyecto
-
-El proyecto se estructura en los siguientes pasos clave:
+## Procedimiento
 
 ### 1. Configuración del Entorno
 Instalación de PySpark y configuración de una `SparkSession` en Google Colab.
