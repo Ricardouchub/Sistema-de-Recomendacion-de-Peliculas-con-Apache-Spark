@@ -51,9 +51,11 @@ El rendimiento del modelo se evaluó en el conjunto de prueba utilizando la mét
 ### 6. Pruebas Adicionales
 Una vez entrenado y evaluado, el modelo se utilizó para:
 * **Generar las 10 mejores recomendaciones** para un usuario específico.
+ <img width="669" height="246" alt="image" src="https://github.com/user-attachments/assets/432d1932-8409-4551-a184-46749050c22c" />
+ 
 * **Encontrar películas similares** a una película dada, basándose en la similitud de sus factores latentes.
+<img width="418" height="516" alt="image" src="https://github.com/user-attachments/assets/e8dc05a6-863a-4c40-8200-ed5694359bfd" />
 
-<img width="669" height="246" alt="image" src="https://github.com/user-attachments/assets/432d1932-8409-4551-a184-46749050c22c" />
 
 
 ---
