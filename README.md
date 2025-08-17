@@ -2,7 +2,7 @@
 
 Este proyecto implementa un sistema de recomendación de películas utilizando **Apache Spark** y su librería de Machine Learning, **MLlib**. El objetivo es procesar un gran conjunto de datos de calificaciones de películas para entrenar un modelo de filtrado colaborativo capaz de generar recomendaciones personalizadas para los usuarios.
 
-Todo el proceso, desde la carga de datos hasta el entrenamiento y la evaluación del modelo, se realiza en un entorno de **Google Colab**, demostrando la capacidad de Spark para manejar y analizar datasets a gran escala.
+Todo el proceso, desde la carga de datos hasta el entrenamiento y la evaluación del modelo, se realiza en un entorno de Google Colab, demostrando la capacidad de Spark para manejar y analizar datasets a gran escala.
 
 
 
@@ -20,7 +20,7 @@ Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida pa
 * **Procesamiento de Datos:** Apache Spark (PySpark)
 * **Machine Learning:** Spark MLlib (Algoritmo ALS)
 * **Análisis y Manipulación:** Spark SQL, DataFrames
-* **Visualización:** Matplotlib & Seaborn
+* **Visualización:** Matplotlib y Seaborn
 * **Entorno de Ejecución:** Google Colab
 
 ---
