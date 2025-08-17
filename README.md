@@ -17,8 +17,8 @@ Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida pa
 
 ##  Tecnologías y Librerías
 
-* **Procesamiento de Datos:** Apache Spark (PySpark)
-* **Machine Learning:** Spark MLlib (Algoritmo ALS)
+* **Procesamiento de Datos:** PySpark
+* **Machine Learning:** Spark MLlib (ALS)
 * **Análisis y Manipulación:** Spark SQL, DataFrames
 * **Visualización:** Matplotlib y Seaborn
 * **Entorno de Ejecución:** Google Colab
