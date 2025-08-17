@@ -71,4 +71,5 @@ Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
 
 ## Autor
 **Ricardo Urdaneta**
-**Linkedin**
+
+**[Linkedin](https://www.linkedin.com/in/ricardourdanetacastro/)**
