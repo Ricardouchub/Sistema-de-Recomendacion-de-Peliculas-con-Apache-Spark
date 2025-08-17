@@ -53,6 +53,9 @@ Una vez entrenado y evaluado, el modelo se utilizó para:
 * **Generar las 10 mejores recomendaciones** para un usuario específico.
 * **Encontrar películas similares** a una película dada, basándose en la similitud de sus factores latentes.
 
+<img width="669" height="246" alt="image" src="https://github.com/user-attachments/assets/432d1932-8409-4551-a184-46749050c22c" />
+
+
 ---
 
 ## Conclusiones
