@@ -11,8 +11,8 @@ Todo el proceso, desde la carga de datos hasta el entrenamiento y la evaluación
 Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida para benchmarks de sistemas de recomendación.
 
 * **Calificaciones:** 32 millones de ratings.
-* **Películas:** 87,585 películas.
-* **Usuarios:** 200,948 usuarios.
+* **Películas:** 87,585 
+* **Usuarios:** 200,948 
 * **Fuente:** [GroupLens - MovieLens 32M Dataset](https://grouplens.org/datasets/movielens/32m/)
 
 ##  Tecnologías y Librerías
