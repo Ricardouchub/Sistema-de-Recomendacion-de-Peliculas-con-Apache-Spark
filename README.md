@@ -12,7 +12,7 @@ Se utilizó el dataset **MovieLens 32M** que consta de:
 
 * **Calificaciones:** 32 millones de ratings.
 * **Películas:** 87,585 
-* **Usuarios:** 200,948
+* **Users ID:** 200,948
 
 **Fuente:** [GroupLens - MovieLens 32M Dataset](https://grouplens.org/datasets/movielens/32m/)
 
