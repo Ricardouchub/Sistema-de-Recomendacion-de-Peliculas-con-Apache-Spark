@@ -30,10 +30,10 @@ Se utilizó el dataset **MovieLens 32M** que consta de:
 El proyecto se estructura en los siguientes pasos clave:
 
 ### 1. Configuración del Entorno
-Instalación de PySpark y configuración de una `SparkSession` en Google Colab, asignando memoria suficiente para manejar el dataset.
+Instalación de PySpark y configuración de una `SparkSession` en Google Colab.
 
 ### 2. Análisis Exploratorio
-Antes de entrenar el modelo, se realizó un análisis profundo para entender la naturaleza de los datos:
+Se realizó un análisis profundo para entender la naturaleza de los datos:
 * **Estadísticas Descriptivas:** Análisis de la distribución de las calificaciones (`ratings`).
 * **Análisis de Popularidad:** Identificación de las películas más calificadas y los usuarios más activos.
 * **Análisis por Género:** Exploración de los géneros más comunes en el dataset.
@@ -57,7 +57,6 @@ Una vez entrenado y evaluado, el modelo se utilizó para:
 
 ---
 
-
 ## Conclusiones
 
 Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
@@ -65,7 +64,6 @@ Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
 * El análisis exploratorio reveló patrones interesantes sobre la distribución de géneros y la actividad de los usuarios.
 * El modelo ALS entrenado logró un **RMSE** competitivo, demostrando su capacidad para predecir calificaciones con una precisión razonable.
 * El sistema final es capaz de generar recomendaciones personalizadas y encontrar películas similares, validando la efectividad del modelo.
-
 
 ---
 
