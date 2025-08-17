@@ -20,8 +20,7 @@ Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida pa
 * **Procesamiento de Datos:** PySpark
 * **Machine Learning:** Spark MLlib (ALS)
 * **Análisis y Manipulación:** Spark SQL, DataFrames
-* **Visualización:** Matplotlib y Seaborn
-* **Entorno de Ejecución:** Google Colab
+* **Visualización:** Matplotlib, Seaborn
 
 ---
 
@@ -32,7 +31,7 @@ El proyecto se estructura en los siguientes pasos clave:
 ### 1. Configuración del Entorno
 Instalación de PySpark y configuración de una `SparkSession` en Google Colab, asignando memoria suficiente para manejar el dataset.
 
-### 2. Análisis Exploratorio de Datos (EDA)
+### 2. EDA
 Antes de entrenar el modelo, se realizó un análisis profundo para entender la naturaleza de los datos:
 * **Estadísticas Descriptivas:** Análisis de la distribución de las calificaciones (`ratings`).
 * **Análisis de Popularidad:** Identificación de las películas más calificadas y los usuarios más activos.
