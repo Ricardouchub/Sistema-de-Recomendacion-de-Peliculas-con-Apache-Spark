@@ -2,8 +2,7 @@
 
 Este proyecto implementa un sistema de recomendación de películas utilizando **Apache Spark** y su librería de Machine Learning, **MLlib**. El objetivo es procesar un gran conjunto de datos de calificaciones de películas para entrenar un modelo de filtrado colaborativo capaz de generar recomendaciones personalizadas para los usuarios.
 
-Todo el proceso, desde la carga de datos hasta el entrenamiento y la evaluación del modelo, se realiza en un entorno de Google Colab, demostrando la capacidad de Spark para manejar y analizar datasets a gran escala.
-
+---
 
 
 ## Dataset Utilizado
@@ -53,15 +52,10 @@ El rendimiento del modelo se evaluó en el conjunto de prueba utilizando la mét
 ### 6. Generación de Recomendaciones y Pruebas Adicionales
 Una vez entrenado y evaluado, el modelo se utilizó para:
 * **Generar las 10 mejores recomendaciones** para un usuario específico.
-* **Encontrar películas similares** a una película dada, basándose en la similitud de sus factores latentes (el "ADN" de la película).
+* **Encontrar películas similares** a una película dada, basándose en la similitud de sus factores latentes.
 
 ---
 
-## ¿Cómo Ejecutar este Proyecto?
-
-1.  Clona este repositorio en tu máquina local.
-2.  Sube el archivo `.ipynb` a tu Google Colab.
-3.  Ejecuta las celdas en orden. El notebook está diseñado para instalar todas las dependencias y descargar el dataset automáticamente.
 
 ## Resultados y Conclusiones
 
