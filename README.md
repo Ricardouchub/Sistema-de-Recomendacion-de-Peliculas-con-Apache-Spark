@@ -6,7 +6,7 @@ Este proyecto implementa un sistema de recomendación de películas utilizando *
 
 ### [Notebook](https://github.com/Ricardouchub/Sistema-de-Recomendacion-de-Peliculas-con-Apache-Spark/blob/main/Notebook.ipynb)
 
-## Dataset Utilizado
+## Dataset
 
 Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida para benchmarks de sistemas de recomendación.
 
@@ -15,7 +15,7 @@ Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida pa
 * **Usuarios:** 200,948 
 * **Fuente:** [GroupLens - MovieLens 32M Dataset](https://grouplens.org/datasets/movielens/32m/)
 
-##  Tecnologías y Librerías
+##  Herramientas 
 
 * **Procesamiento de Datos:** PySpark
 * **Machine Learning:** Spark MLlib (ALS)
