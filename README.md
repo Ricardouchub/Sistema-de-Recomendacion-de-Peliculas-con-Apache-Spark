@@ -1,4 +1,4 @@
-# 🎬 Sistema de Recomendación de Películas con Apache Spark
+# Sistema de Recomendación de Películas con Apache Spark
 
 Este proyecto implementa un sistema de recomendación de películas utilizando **Apache Spark** y su librería de Machine Learning, **MLlib**. El objetivo es procesar un gran conjunto de datos de calificaciones de películas para entrenar un modelo de filtrado colaborativo capaz de generar recomendaciones personalizadas para los usuarios.
 
@@ -6,7 +6,7 @@ Todo el proceso, desde la carga de datos hasta el entrenamiento y la evaluación
 
 
 
-## 📊 Dataset Utilizado
+## Dataset Utilizado
 
 Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida para benchmarks de sistemas de recomendación.
 
@@ -15,7 +15,7 @@ Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida pa
 * **Usuarios:** 200,948 usuarios.
 * **Fuente:** [GroupLens - MovieLens 32M Dataset](https://grouplens.org/datasets/movielens/32m/)
 
-## ⚙️ Tecnologías y Librerías
+##  Tecnologías y Librerías
 
 * **Procesamiento de Datos:** Apache Spark (PySpark)
 * **Machine Learning:** Spark MLlib (Algoritmo ALS)
@@ -25,7 +25,7 @@ Se utilizó el dataset **MovieLens 32M**, una colección estable y reconocida pa
 
 ---
 
-## 🚀 Flujo de Trabajo del Proyecto
+## Flujo de Trabajo del Proyecto
 
 El proyecto se estructura en los siguientes pasos clave:
 
@@ -57,13 +57,13 @@ Una vez entrenado y evaluado, el modelo se utilizó para:
 
 ---
 
-## 💻 ¿Cómo Ejecutar este Proyecto?
+## ¿Cómo Ejecutar este Proyecto?
 
 1.  Clona este repositorio en tu máquina local.
 2.  Sube el archivo `.ipynb` a tu Google Colab.
 3.  Ejecuta las celdas en orden. El notebook está diseñado para instalar todas las dependencias y descargar el dataset automáticamente.
 
-## ✨ Resultados y Conclusiones
+## Resultados y Conclusiones
 
 Este proyecto demuestra un pipeline completo de Machine Learning con Big Data:
 * Se manejaron y procesaron con éxito más de 32 millones de registros.
