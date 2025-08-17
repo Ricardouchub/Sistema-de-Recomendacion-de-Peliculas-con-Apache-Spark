@@ -31,7 +31,7 @@ El proyecto se estructura en los siguientes pasos clave:
 ### 1. Configuración del Entorno
 Instalación de PySpark y configuración de una `SparkSession` en Google Colab, asignando memoria suficiente para manejar el dataset.
 
-### 2. EDA
+### 2. Análisis Exploratorio
 Antes de entrenar el modelo, se realizó un análisis profundo para entender la naturaleza de los datos:
 * **Estadísticas Descriptivas:** Análisis de la distribución de las calificaciones (`ratings`).
 * **Análisis de Popularidad:** Identificación de las películas más calificadas y los usuarios más activos.
@@ -43,13 +43,13 @@ Antes de entrenar el modelo, se realizó un análisis profundo para entender la 
 * Conversión de tipos de datos para asegurar la compatibilidad con el modelo.
 * División del dataset en un conjunto de **entrenamiento (80%)** y uno de **prueba (20%)**.
 
-### 4. Entrenamiento del Modelo de Machine Learning
+### 4. Entrenamiento del Modelo de ML
 Se utilizó el algoritmo de **Alternating Least Squares (ALS)** de Spark MLlib para entrenar el modelo de recomendación. ALS es un método de filtrado colaborativo basado en factorización de matrices que aprende "factores latentes" para cada usuario y película.
 
-### 5. Evaluación del Modelo
+### 5. Evaluación del Modelo de ML
 El rendimiento del modelo se evaluó en el conjunto de prueba utilizando la métrica de **Error Cuadrático Medio (RMSE)**. Un RMSE bajo indica que las predicciones de calificación del modelo son cercanas a las calificaciones reales de los usuarios.
 
-### 6. Generación de Recomendaciones y Pruebas Adicionales
+### 6. Pruebas Adicionales
 Una vez entrenado y evaluado, el modelo se utilizó para:
 * **Generar las 10 mejores recomendaciones** para un usuario específico.
 * **Encontrar películas similares** a una película dada, basándose en la similitud de sus factores latentes.
