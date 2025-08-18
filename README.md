@@ -54,7 +54,8 @@ Una vez entrenado y evaluado, el modelo se utilizó para:
  <img width="669" height="246" alt="image" src="https://github.com/user-attachments/assets/432d1932-8409-4551-a184-46749050c22c" />
  
 * **Encontrar películas similares** a una película dada, basándose en la similitud de sus factores latentes.
-<img width="418" height="516" alt="image" src="https://github.com/user-attachments/assets/e8dc05a6-863a-4c40-8200-ed5694359bfd" />
+<img width="417" height="513" alt="image" src="https://github.com/user-attachments/assets/a8e44d49-585b-41e1-a698-47934aefb137" />
+
 
 
 
