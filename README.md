@@ -14,7 +14,7 @@ Se utilizó el dataset **MovieLens 32M** que consta de:
 * **Películas:** 87,585 
 * **Users ID:** 200,948
 
-**Fuente:** [GroupLens - MovieLens 32M Dataset](https://grouplens.org/datasets/movielens/32m/)
+**Fuente:** [MovieLens 32M Dataset - size: 239 MB](https://grouplens.org/datasets/movielens/32m/)
 
 ##  Herramientas 
 
