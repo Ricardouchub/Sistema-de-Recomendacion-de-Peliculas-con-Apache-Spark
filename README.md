@@ -1,5 +1,15 @@
 # Sistema de Recomendación de Películas con Apache Spark
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyecto_Completado-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Project Completed"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.9+"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-PySpark-E24C4B?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark (PySpark)"/>
+  <img src="https://img.shields.io/badge/MLlib-ALS-FF9900?style=flat-square&logo=apache-spark&logoColor=white" alt="MLlib ALS"/>
+  <img src="https://img.shields.io/badge/Dataset-MovieLens%2032M-1F77B4?style=flat-square&logo=database&logoColor=white" alt="MovieLens 32M Dataset"/>
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib_/_Seaborn-4B8BBE?style=flat-square&logo=matplotlib&logoColor=white" alt="Visualization"/>
+</p>
+
+
 Este proyecto implementa un sistema de recomendación de películas utilizando **Apache Spark** y su librería de Machine Learning, **MLlib**. El objetivo es procesar un gran conjunto de datos de calificaciones de películas para entrenar un modelo de filtrado colaborativo capaz de generar recomendaciones personalizadas para los usuarios.
 
 ---
